@@ -1,3 +1,6 @@
 # site-android
-Exercício feito no curso de HTML e CSS do curso em vídeo(Gustavo Guanabara).
+Exercício feito no curso de HTML e CSS do curso em vídeo(Gustavo Guanabara).Utilizei:
+-HTML
+-CSS
+
 
